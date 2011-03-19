@@ -1,0 +1,8 @@
+#summary Pri-Views Introduction
+
+= Introduction =
+
+Pri-Views is a tool that allows, given a relation table, to produce views (vertical fragments) over it, in such a way to protect the privacy of possible sensitive information while providing maximal visibility over the data.
+Pri-Views is based on a greedy algorithm designed by UNIBG and UNIMI to solve the problem of creating unlinkable fragments in the storage of sensitive attributes. The presented algorithm departs from the use of encryption, while usually in the literature, this kind of problem has been addressed using both fragmentation and encryption.
+The project is composed of two applications: the first implements the proposed greedy algorithm (developed in C++), while the second realizes its Graphical User Interface (developed in Java).
+Pri-Views project comes within the European project PrimeLife (7th Framework Programme).
