@@ -1,4 +1,5 @@
 #summary PrimeLife European Project Presentation
+#sidebar TableOfContents
 
 = Introduction =
 
