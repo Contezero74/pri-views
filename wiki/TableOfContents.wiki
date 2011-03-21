@@ -3,4 +3,5 @@
   * [PriViewsIntroduction What is Pri-Views]
     * [PriViewInstall Installation Guide]
     * [PriViewGUI User Interface]
+    * [PriViewExample A simple demonstration]
   * [PrimeLife The PrimeLife Project]
