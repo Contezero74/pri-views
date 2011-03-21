@@ -1,4 +1,5 @@
 #summary Pri-Views Introduction
+#sidebar TableOfContents
 
 = Introduction =
 
