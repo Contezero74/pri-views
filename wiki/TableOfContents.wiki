@@ -1,10 +1,6 @@
-#summary One-sentence summary of this page.
+#summary The table of contents of this wiki
 
-* [Articles HOWTO articles]
-    * [ArticlesXSS Web security]
-    * [ArticlesDom DOM manipulation]
-    * [ArticlesStyle CSS and style]
-    * [ArticlesTips Tips and tricks]
-  * [DOMReference DOM reference]
-  * [HTMLElements HTML reference]
-  * [CSSReference CSS reference]
+  * [PriViewsIntroduction What is Pri-Views]
+    * [PriViewInstall Installation Guide]
+    * [PriViewGUI User Interface]
+  * [PrimeLife The PrimeLife Project]
