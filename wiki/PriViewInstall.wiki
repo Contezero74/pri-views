@@ -1,4 +1,5 @@
 #summary A short installation guide
+#sidebar TableOfContents
 
 = Installation Guide  =
 
