@@ -1,0 +1,2 @@
+[Pri-Views](http://code.google.com/p/pri-views/wiki/PriViewsIntroduction) is a tool that allows, given a relation table, to produce views (vertical fragments) over it, in such a way to protect the privacy of possible sensitive information while providing maximal visibility over the data.
+Pri-Views project comes within the European project PrimeLife (7th Framework Programme).
